@@ -1,0 +1,61 @@
+h1{
+    color:rgb(141, 17, 84)
+}
+body{
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj__e2TtKh3kbEF02BV65ZKYqV05O79yfKlZp7PCEL&s");
+                       background-repeat: no-repeat;
+                    background-size:cover;
+                    background-position : center; 
+                    text-align : center;
+                    font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+                    color:darkmagenta;
+                    font-size:18px;
+                                    
+                   }
+#cards{                
+    font-style:italic;
+    font-family: Courier New, Courier, monospace;
+    font-weight:600;
+    color:darkmagenta
+}
+
+#startbut{
+    border-radius:20px;
+    padding:10px;
+    width:90px;
+    height: 40px;
+    background-color:pink;
+    font-size:15px;
+    font-family:Courier New, Courier, monospace;
+    font-weight :bold;
+    color: darkmagenta;
+    
+    
+    
+}
+#newcardbutt{
+    border-radius : 20px;
+    padding : 10px;
+    font-size: 15px;
+    font-family:Courier New, Courier, monospace;
+    font-weight : bold;
+    background-color: pink;
+    box-shadow: 2px 2px 2px palevioletred; 
+    color: darkmagenta;
+    
+}
+
+.content{
+    padding-top: 210px;
+    max-width: 500px;
+    margin: auto ;
+}
+
+#rule{
+    font-weight: bold;
+    color:rgb(141, 17, 17);
+    font-family : 'Courier New', Courier, monospace;
+    font-size : 15px;
+    font-style : italic
+
+}
